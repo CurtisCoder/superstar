@@ -1,0 +1,174 @@
+body {
+  background-color: #faf0af;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: #940128;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  color: #940128;
+}
+
+hr {
+  border-color: #fff;
+}
+
+a, a:hover {
+text-decoration:none;
+color:inherit;
+}
+
+.ftr {
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: #940128;
+}
+
+.reg-text {
+  font-family: 'Raleway', sans-serif;
+  color: #940128;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+}
+
+.cork:hover {
+  opacity: 0.5;
+}
+
+.grape-cluster {
+  border-radius: 30px;
+  display: block;
+  margin: auto;
+}
+
+.content-btn {
+  font-family: "Mukta";
+  color: #fff;
+  background-color: #940128;
+  display: block;
+  margin: auto;
+  border-radius: 5px;
+  width: 150px;
+  height: 45px;
+  margin-bottom: 15px;
+}
+
+.content-btn:hover {
+  background-color: #faf0af;
+  color: #940128;
+  border-color: #fff;
+}
+
+.contents {
+  height: 15px;
+}
+
+.white-btn {
+  font-family: "Mukta";
+  color: #fff;
+  background-color: #940128;
+  border-radius: 5px;
+  width: 125px;
+  height: 45px;
+  margin-bottom: 15px;
+  display: inline-block;
+}
+
+.white-btn:hover {
+  color: #faf0af;
+  background-color: #faf0af;
+}
+
+.red-btn {
+  font-family: "Mukta";
+  color: #fff;
+  background-color: #940128;
+  border-radius: 5px;
+  width: 125px;
+  height: 45px;
+  margin-bottom: 15px;
+  display: inline-block;
+  left: 200px;
+}
+
+.red-btn:hover
+ {
+  color: #940128;
+  background-color: #940128;
+}
+
+.blk-btn {
+  font-family: "Mukta";
+  color: #fff;
+  background-color: black;
+  border-radius: 5px;
+  width: 125px;
+  height: 45px;
+  /* margin-bottom: 15px; */
+  /* display: inline-block; */
+  margin:auto;
+  display: block;
+  left: 200px;
+
+}
+
+.blk-btn:hover {
+  color: grey;
+  background-color: grey;
+}
+
+.app {
+  text-align: center;
+}
+
+/* White Wine */
+
+.white-wine {
+  background-color: #fff;
+}
+
+.carousel-item {
+  height: 500px;
+  font-family: "Mukta";
+  color: #fff;
+}
+
+/* .carousel-control-prev-icon, .carousel-control-next-icon {
+  background-color: #940128;
+} */
+
+.carousel-control-prev, .carousel-control-next {
+  background-color: #940128;
+}
+
+.slide1 {
+  background-color: blue;
+}
+
+.slide2{
+  background-color: green;
+}
+
+.slide3{
+  background-color: yellow;
+}
+
+/* body */
+
+.body-lev {
+  margin: auto;
+  width: 200px;
+  border-style: solid none;
+  text-align: center;
+}
